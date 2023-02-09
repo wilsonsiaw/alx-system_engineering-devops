@@ -22,3 +22,8 @@ In this project I learn how to write executable scripts using shell permissions
    To change the owner of the file use the **chown** command in the terminal
    The 3-new_owner file in the repository takes this command and turns it into an
    executable script.
+
+5. **A script that create an empty file named hello:**
+   To create an empty file, use the **touch** command in the terminal.
+   The 4-empty file in the repository takes this command and turns it into an
+   executable script.
