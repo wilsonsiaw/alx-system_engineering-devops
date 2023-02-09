@@ -30,3 +30,11 @@ In this project I learn how to write executable scripts using shell commands.
    To display hidden files in long format, use the **ls -la** command in the terminal.
    The 4-listmorefiles file in the repository takes this command and turns it into an executable
    script.
+
+6. **A script that displays the current directory in long format, with user and group ID's displayed
+   numerically and hidden files:**
+   To display contents of the working directory in long format with the numeric user and group ID's
+   as well as hidden files, use the **ls -lna** command in the terminal.
+   The 5-listfilesdigitonly file in the repository takes this command and turns it into an executable
+   script.
+   
