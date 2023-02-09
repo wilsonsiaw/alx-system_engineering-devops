@@ -27,3 +27,9 @@ In this project I learn how to write executable scripts using shell permissions
    To create an empty file, use the **touch** command in the terminal.
    The 4-empty file in the repository takes this command and turns it into an
    executable script.
+
+6. **A script that adds execute permission to the owner of the hello file:**
+   To add execute permissions using symbolic represnetation use the
+   **chmod u+x <file_name>** command in the terminal.
+   The 5-execute file in the repository takes this command and turns it into an
+   executable script.
