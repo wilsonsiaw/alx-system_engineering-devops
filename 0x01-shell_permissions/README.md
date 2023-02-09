@@ -6,3 +6,8 @@ In this project I learn how to write executable scripts using shell permissions
    To change the current user you can use the **su** command in the terminal.
    The 0-iam_betty file in the repository takes this command and turns it into
    an executable script.
+
+2. **A script that prints the effective username of the current user:**
+   To print the username of the user, use the **whoami** command in the terminal.
+   The 1-who_am_i file in the repository takes this command and turns it into an
+   executable script.
