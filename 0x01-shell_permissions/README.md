@@ -11,3 +11,9 @@ In this project I learn how to write executable scripts using shell permissions
    To print the username of the user, use the **whoami** command in the terminal.
    The 1-who_am_i file in the repository takes this command and turns it into an
    executable script.
+
+3. **A script that prints all groups the current user is part of:**
+   To print the groups the user is part of use the **groups** command in the
+   terminal.
+   The 2-groups file in the repository takes this command and turns it into an
+   executable script.
