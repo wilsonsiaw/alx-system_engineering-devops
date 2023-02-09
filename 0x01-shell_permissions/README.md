@@ -17,3 +17,8 @@ In this project I learn how to write executable scripts using shell permissions
    terminal.
    The 2-groups file in the repository takes this command and turns it into an
    executable script.
+
+4. **A script that changes the owner of a file:**
+   To change the owner of the file use the **chown** command in the terminal
+   The 3-new_owner file in the repository takes this command and turns it into an
+   executable script.
