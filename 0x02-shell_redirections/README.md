@@ -17,3 +17,10 @@ create filters.
    command in the terminal.
    The 2-hellofile in the repository takes this command and turns it
    into an executable script.
+
+4. **A script that prints the content of /etc/passwd and /etc/hosts:**
+   To print the contents of any directory such as the two mentioned above
+   use the **less** command in the terminal. Note that the two directories
+   must be separated by some whitespace.
+   The 3-twofiles in the repository takes this command and turns it into an
+   executable script.
