@@ -36,3 +36,15 @@ create filters.
    command in the terminal with any arguments.
    The 5-firstlines file in the repository takes this command and turns it into
    an executable script.
+
+7. **A script that displays the third line of a file:**
+   To display the third line of a file use a combination of the **head** and **tail**
+   commands in the terminal.
+   The 6-third_line file in the repository takes this command and turns into an
+   executable script.
+
+8. **A script that writes into a file using a shell command:**
+   To write into a file using a shell command use the >
+   redirection operator in the terminal.
+   The 8-cwd_state file in the repository takes this operator and a shell command
+   and turns it into an executable script.
