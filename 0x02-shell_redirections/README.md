@@ -24,3 +24,9 @@ create filters.
    must be separated by some whitespace.
    The 3-twofiles in the repository takes this command and turns it into an
    executable script.
+
+5. **A script that displays the last 10 lines of /etc/passwd:**
+   To display the last 10 lines of any file or directory, use the
+   **tail** command in the terminal.
+   The 4-lastlines file in the repository takes this command and turns it into
+   an executable script.
