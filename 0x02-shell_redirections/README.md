@@ -1,4 +1,4 @@
-**MY THIRD ALX SYSTEM ENGINEERING DEVOPS PORJECT**
+**MY THIRD ALX SYSTEM ENGINEERING DEVOPS PROJECT**
 
 In this project I write Unix Shell scripts that perform
 Input/Output redirections. I also use Unix commands to
@@ -29,4 +29,10 @@ create filters.
    To display the last 10 lines of any file or directory, use the
    **tail** command in the terminal.
    The 4-lastlines file in the repository takes this command and turns it into
+   an executable script.
+
+6. **A script that displays the first 10 lines of /etc/passwd:**
+   To display the first 10 lines of any file or directory, use the **tail**
+   command in the terminal with any arguments.
+   The 5-firstlines file in the repository takes this command and turns it into
    an executable script.
