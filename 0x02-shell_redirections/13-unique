@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | sort | uniq -u
+echo > list | sort | uniq -u
