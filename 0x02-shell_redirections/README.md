@@ -48,3 +48,16 @@ create filters.
    redirection operator in the terminal.
    The 8-cwd_state file in the repository takes this operator and a shell command
    and turns it into an executable script.
+
+9. **A script that duplicates the last line of a file:**
+   To duplicate the last line of a file, use the **echo** and **tail** commands as
+   well as the **>>** redirection operator.
+   The 9-duplicate_last_line file takes these commands and turns them into an executable
+   script.
+
+10. **A script that deletes specific regular files:**
+    To delete specific files in a directory use the **find** command in the terminal.
+    Use this command in combination with the **-type** option **-name** option and
+    the **-delete** option.
+    The 10-no_more_js file in the repository takes this command and options and turns them
+    into an executable script.
